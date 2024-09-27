@@ -9,3 +9,29 @@ td,th {
 
 
 /* További beállítások a feladat szerint */
+h1{
+        /*betű színe*/
+        color: blue;
+        color: #0000ff;
+        color: rgb(0, 0, 255);
+        /*color: hsla(47, 39%, 44%, 0.629);*/
+}
+
+h1, h2{
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+#vastag{
+        /*vastagon szedett*/
+        font-weight: bold;
+}
+
+caption{
+        /*dőlt betűs*/
+        font-style: italic;
+        font-style: oblique;
+}
+
+table{
+        background-color: lightblue;
+}
